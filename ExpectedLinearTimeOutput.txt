@@ -1,0 +1,5 @@
+Kth element is 
+9.0
+
+
+Time taken to run program:1680254.0 ns
